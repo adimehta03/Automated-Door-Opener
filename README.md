@@ -5,3 +5,4 @@ This project can further be developed in order to open the door either using fac
 
 Below is the circuit diagram - 
 
+![alt circuit](https://github.com/adimehta03/Automated-Door-Opener/blob/master/final.png)

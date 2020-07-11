@@ -3,11 +3,11 @@
 A simple automated door opener using  Arduino Uno, Numberpad and 9g Servo. It also includes a GUI made using Processing IO.
 This project can further be developed in order to open the door either using facial recognition or a password.
 
-<h2>Below is the circuit diagram -</h2> 
+<h2>Circuit diagram -</h2> 
 
 ![alt circuit](https://github.com/adimehta03/Automated-Door-Opener/blob/master/final.png)
 
-<h2>Below is a screenshot of the GUI made using Processing IO-</h2>
+<h2>GUI made using Processing IO-</h2>
 
 ![alt gui](https://github.com/adimehta03/Automated-Door-Opener/blob/master/proio.png)
 

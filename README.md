@@ -9,7 +9,7 @@ This project can further be developed in order to open the door either using fac
 
 <h2>Below is a screenshot of the GUI made using Processing IO-</h2>
 
-![alt gui](https://github.com/adimehta03/Automated-Door-Opener/blob/master/prio.png)
+![alt gui](https://github.com/adimehta03/Automated-Door-Opener/blob/master/proio.png)
 
 <h2>To run the program - </h2>
 Open the <a href="https://github.com/adimehta03/Automated-Door-Opener/blob/master/sketch_4x4_keypad/sketch_4x4_keypad.pde">sketch_4x4_keypad.pde</a> and hit Ctrl+F and type COM3, replace it with the serial port to which your Arduino is connected to.
